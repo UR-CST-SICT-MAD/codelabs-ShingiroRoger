@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Scroll217026648</string>
+    <string name="pp1">Article Title</string>
+    <string name="pp2">TextView</string>
+    <string name="pp3">Article Subtitle</string>
+    <string name="pp7">/n/n Exercises
+
+1) A geostationary satellite is located 90ºW. Calculate the azimuth angle for an Earth station antenna located at latitude 35ºW and longitude 100ºW
+2) An FSS ground terminal located in Chicago, IL, at latitude 41.5◦ N and longitude 87.6◦W has access to two GSO satellites, one stationed at 70◦W longitude and the second at 135◦W longitude. Which satellite will provide the more reliable link (higher elevation angle) for the ground terminal? The ground terminal elevation above sea level is 0.5 km. Assume 0◦ inclination angle for the satellites.
+3) What are the minimum and maximum round trip signal propagation times to a satellite in geostationary orbit, for an allowable elevation angle range of 90◦ to 0◦? Assume an inclination angle of 0◦.
+4) Which type of satellite orbit provides the best performance for a communications network for each of the following criteria: (a) Minimum free space path loss (b) Best coverage of high latitude locations (c) Full global coverage for a mobile communications network (d) Minimum latency (time delay) for voice and data networks (e) Ground terminals with little or no antenna tracking required
+
+5) What factors determine the number of satellites required for a network of NGSO satellites serving a global distribution of mobile earth terminals? Include considerations of frequency of operation, pointing, and tracking as well as adequate coverage.
+
+6) A LEO satellite is in a circular orbit 322 km above the earth. Assume the average radius of the earth is 6378 km. Assume the earth eccentricity is 0. a) Determine the orbital velocity of the satellite in m/sec b) What is the orbital period, in minutes, for the LEO satellite? c) From the above, determine the orbital angular velocity for the satellite, in radians/sec.
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+
+/n
+        /n Exercises
+
+1) A geostationary satellite is located 90ºW. Calculate the azimuth angle for an Earth station antenna located at latitude 35ºW and longitude 100ºW
+2) An FSS ground terminal located in Chicago, IL, at latitude 41.5◦ N and longitude 87.6◦W has access to two GSO satellites, one stationed at 70◦W longitude and the second at 135◦W longitude. Which satellite will provide the more reliable link (higher elevation angle) for the ground terminal? The ground terminal elevation above sea level is 0.5 km. Assume 0◦ inclination angle for the satellites.
+3) What are the minimum and maximum round trip signal propagation times to a satellite in geostationary orbit, for an allowable elevation angle range of 90◦ to 0◦? Assume an inclination angle of 0◦.
+4) Which type of satellite orbit provides the best performance for a communications network for each of the following criteria: (a) Minimum free space path loss (b) Best coverage of high latitude locations (c) Full global coverage for a mobile communications network (d) Minimum latency (time delay) for voice and data networks (e) Ground terminals with little or no antenna tracking required
+
+5) What factors determine the number of satellites required for a network of NGSO satellites serving a global distribution of mobile earth terminals? Include considerations of frequency of operation, pointing, and tracking as well as adequate coverage.
+
+6) A LEO satellite is in a circular orbit 322 km above the earth. Assume the average radius of the earth is 6378 km. Assume the earth eccentricity is 0. a) Determine the orbital velocity of the satellite in m/sec b) What is the orbital period, in minutes, for the LEO satellite? c) From the above, determine the orbital angular velocity for the satellite, in radians/sec.
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+
+/n Exercises
+
+1) A geostationary satellite is located 90ºW. Calculate the azimuth angle for an Earth station antenna located at latitude 35ºW and longitude 100ºW
+2) An FSS ground terminal located in Chicago, IL, at latitude 41.5◦ N and longitude 87.6◦W has access to two GSO satellites, one stationed at 70◦W longitude and the second at 135◦W longitude. Which satellite will provide the more reliable link (higher elevation angle) for the ground terminal? The ground terminal elevation above sea level is 0.5 km. Assume 0◦ inclination angle for the satellites.
+3) What are the minimum and maximum round trip signal propagation times to a satellite in geostationary orbit, for an allowable elevation angle range of 90◦ to 0◦? Assume an inclination angle of 0◦.
+4) Which type of satellite orbit provides the best performance for a communications network for each of the following criteria: (a) Minimum free space path loss (b) Best coverage of high latitude locations (c) Full global coverage for a mobile communications network (d) Minimum latency (time delay) for voice and data networks (e) Ground terminals with little or no antenna tracking required
+
+5) What factors determine the number of satellites required for a network of NGSO satellites serving a global distribution of mobile earth terminals? Include considerations of frequency of operation, pointing, and tracking as well as adequate coverage.
+
+6) A LEO satellite is in a circular orbit 322 km above the earth. Assume the average radius of the earth is 6378 km. Assume the earth eccentricity is 0. a) Determine the orbital velocity of the satellite in m/sec b) What is the orbital period, in minutes, for the LEO satellite? c) From the above, determine the orbital angular velocity for the satellite, in radians/sec.
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+Be equipped with the knowledge of satellite communications engineering fundamentals
+Demonstrate an understanding of fundamental digital satellite link including link budgets, modulation, error control coding, signalling theory, and multiple access methods
+Be able to discuss the challenges related to designing satellite sub-system and their impact on the overall system performance and complexity
+Understand the importance of satellite communication for applications like GPS, Mobile communication and Internet access
+A communication satellite is basically an electronic communication package placed in orbit whose prime objective is to initiate or assist communication transmission of information or message from one point to another through space
+
+ The satellite is an active transmission relay, similar in function to relay towers used in terrestrial microwave communications
+
+ The information transferred most often corresponds to voice (telephone), video (television), and digital data
+Satellites are specifically made for telecommunication purpose. They are used for mobile applications such as communication to ships, vehicles, planes, hand-held terminals and for TV and radio broadcasting
+
+ They are responsible for providing these services to an assigned region (area) on the earth
+
+ The power and bandwidth of these satellites depend upon the preferred size of the footprint (a certain area on the earth covered by a satellite), complexity of the traffic control protocol schemes and the cost of ground stations
+
+
+</string>
+</resources>
